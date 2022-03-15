@@ -1,1 +1,1 @@
-$\left[\begin{array}{cccc}a_{11} & a_{12} & \cdots & a_{1 n} \\ a_{21} & a_{22} & \cdots & a_{2 n} \\ \vdots & & & \\ a_{m 1} & a_{m 2} & \cdots & a_{m n}\end{array}\right]\left[\begin{array}{c}x_{1} \\ x_{2} \\ \vdots \\ x_{n}\end{array}\right]=\left[\begin{array}{c}b_{1} \\ b_{2} \\ \vdots \\ b_{m}\end{array}\right]$
+Solution of $A \underline{x}=\underline{b}$ : Any vector $\underline{u}$ satisfying $A \underline{x}=\underline{b}$ i.e. $A \underline{u}=\underline{b}$ is soid tu be a solution of SOLE.
