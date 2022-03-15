@@ -1,2 +1,1 @@
-$a_{i j} 5$ and $b_{i}, i=1,2 \cdots m_{j}=1,2 \cdots n$ are real comrtant and are known.
-while $x_{1}, x_{2} \ldots x_{n}$ are unknown variables.
+$\left[\begin{array}{cccc}a_{11} & a_{12} & \cdots & a_{1 n} \\ a_{21} & a_{22} & \cdots & a_{2 n} \\ \vdots & & & \\ a_{m 1} & a_{m 2} & \cdots & a_{m n}\end{array}\right]\left[\begin{array}{c}x_{1} \\ x_{2} \\ \vdots \\ x_{n}\end{array}\right]=\left[\begin{array}{c}b_{1} \\ b_{2} \\ \vdots \\ b_{m}\end{array}\right]$
