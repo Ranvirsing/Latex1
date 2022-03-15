@@ -1,10 +1,10 @@
-Consistent SoE:
-A SOLE $A \underline{x}=\underline{b}$ is' soid to be consistent if it hai at least one solution.
-Otherwire the SOLE is said to be inconsiotent.
-Homogenerus SOLE:
-If $\underline{b}=\underline{0}$ in SOLE $A \underline{x}=\underline{b}$, then it is scuid to be homo. SuLE.
-Mom-homogincones SOLE:
-$A \underline{n}=\underline{b}$ with $\underline{b} \neq \underline{0}$ said to be non-homo. SOLE.
-General solution:
-If the SOLE $A \underline{x}=\underline{b}$ is corsistent, then an expressic which gives all passible solutions is called a genemal sulution.
-Particular sul ${ }^{n}$. Any specific solution is called particulan Solution of SOLE.
+Example:
+$$
+\begin{array}{l}
+x+y=17 \rightarrow \text { l.i } \\
+2 x+2 y=34 \rightarrow l \cdot d .
+\end{array}
+$$
+2 equationr in 2 unknownt.
+But $2 \times \mathrm{Eg}_{\text {(1) }}=\mathrm{cq}^{-}$(2).
+$\Rightarrow E q^{n r}$ are not l.i.ie only leq ir $l \cdot i$.
